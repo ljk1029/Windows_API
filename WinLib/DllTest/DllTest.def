@@ -1,0 +1,5 @@
+LIBRARY  "DllTest"   ;DLL库第二种导出方式
+
+EXPORTS 
+	add @1
+

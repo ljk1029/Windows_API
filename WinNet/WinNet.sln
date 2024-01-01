@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinNet", "WinNet\WinNet.vcxproj", "{F0247013-186A-49B9-88B3-E743811C9D24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpServer", "TcpServer\TcpServer.vcxproj", "{2CA61436-8701-425E-8F70-61359C38E77C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpClient", "TcpClient\TcpClient.vcxproj", "{7D54D426-44F3-481D-8F29-5CC4C09CEFB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0247013-186A-49B9-88B3-E743811C9D24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0247013-186A-49B9-88B3-E743811C9D24}.Debug|Win32.Build.0 = Debug|Win32
+		{F0247013-186A-49B9-88B3-E743811C9D24}.Release|Win32.ActiveCfg = Release|Win32
+		{F0247013-186A-49B9-88B3-E743811C9D24}.Release|Win32.Build.0 = Release|Win32
+		{2CA61436-8701-425E-8F70-61359C38E77C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CA61436-8701-425E-8F70-61359C38E77C}.Debug|Win32.Build.0 = Debug|Win32
+		{2CA61436-8701-425E-8F70-61359C38E77C}.Release|Win32.ActiveCfg = Release|Win32
+		{2CA61436-8701-425E-8F70-61359C38E77C}.Release|Win32.Build.0 = Release|Win32
+		{7D54D426-44F3-481D-8F29-5CC4C09CEFB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D54D426-44F3-481D-8F29-5CC4C09CEFB9}.Debug|Win32.Build.0 = Debug|Win32
+		{7D54D426-44F3-481D-8F29-5CC4C09CEFB9}.Release|Win32.ActiveCfg = Release|Win32
+		{7D54D426-44F3-481D-8F29-5CC4C09CEFB9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
